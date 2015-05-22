@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "fritschy@gmail.com",
+    "longName": "plain-and-simple",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "plain-and-simple",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "1f83b653-0228-47ee-acb0-593d715cc094",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
